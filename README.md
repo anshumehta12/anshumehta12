@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anshu Mehta (@anshumehta12)  
+# 👋 Hi, I’m Anshu Mehta
 
 I'm a **curious data enthusiast and aspiring data scientist** who believes in the power of **data-driven problem-solving**. My work spans across **exploratory data analysis, machine learning, and AI applications**, to optimize decision-making.  
 
